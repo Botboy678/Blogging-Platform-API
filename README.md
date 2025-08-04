@@ -1,4 +1,5 @@
 # 📝 Blogging Platform API
+# Project URL : https://roadmap.sh/projects/blogging-platform-api
 
 A simple RESTful API built with Spring Boot that allows users to manage blog posts. It supports basic CRUD operations and comes with Swagger UI for easy testing and documentation.
 
